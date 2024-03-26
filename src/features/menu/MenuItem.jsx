@@ -1,4 +1,4 @@
-import Button from '../../ui/button'
+import Button from '../../ui/Button'
 import { formatCurrency } from '../../utils/helpers'
 import DeleteItem from '../cart/DeleteItem'
 import UpdateItemQuantity from '../cart/UpdateItemQuantity'
